@@ -1,0 +1,11 @@
+-std=c++20
+-O2
+
+-Wall
+-Wextra
+-Wshadow
+-Wparentheses
+-Wfloat-equal
+
+-I
+-include stdc++.h
