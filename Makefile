@@ -20,5 +20,3 @@ headers:
 
 rmall:
 	-rm -rfv template stdc++.h.gch in*
-
-echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
